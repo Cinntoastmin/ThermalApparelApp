@@ -42,6 +42,9 @@
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="IBluetoothAdapter.cs" />
+    <Compile Include="MainPageViewModel.cs" />
+    <Compile Include="MainPageModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="MainPage.xaml">

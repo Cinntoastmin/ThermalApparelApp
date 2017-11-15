@@ -98,6 +98,7 @@
     <ITunesArtwork Include="iTunesArtwork" />
     <ITunesArtwork Include="iTunesArtwork@2x" />
     <None Include="packages.config" />
+    <Compile Include="BluetoothAdapter.cs" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\Default-568h%402x.png" />
@@ -166,7 +167,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ThermalApparelApp\ThermalApparelApp.csproj">
-      <Project>{b84598f5-6cfc-4bbe-860e-ef94be350233}</Project>
+      <Project>{A7D00E9C-40EF-4735-BEE6-A46821961B3D}</Project>
       <Name>ThermalApparelApp</Name>
     </ProjectReference>
   </ItemGroup>

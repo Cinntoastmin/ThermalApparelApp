@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{19820D3E-B379-4815-B317-5CD3BFEE0D22}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ThermalApparelApp/ThermalApparelApp/MainPageModel.cs">
+    <Files>
+      <File FileName="ThermalApparelApp/ThermalApparelApp/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="ThermalApparelApp/ThermalApparelApp/IBluetoothAdapter.cs" Line="2" Column="5" />
+      <File FileName="ThermalApparelApp/ThermalApparelApp.iOS/BluetoothAdapter.cs" Line="9" Column="1" />
+      <File FileName="ThermalApparelApp/ThermalApparelApp/MainPageViewModel.cs" Line="7" Column="1" />
+      <File FileName="ThermalApparelApp/ThermalApparelApp/MainPageModel.cs" Line="5" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ThermalApparelApp" expanded="True">
+            <Node name="ThermalApparelApp" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPageModel.cs" selected="True" />
+            </Node>
+            <Node name="ThermalApparelApp.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="ThermalApparelApp" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ThermalApparelApp.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MultiItemStartupConfigurations />
+</Properties>
